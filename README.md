@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Devisrisamidurai
+- 👋 Hi, I’m @Devisri
 - 👀 I’m interested in .learning new things..
-- 🌱 I’m currently learning ..DSA in java.
+- 🌱 I’m currently learning ..DSA and some basic tech stacks.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .@devistwts..
 
