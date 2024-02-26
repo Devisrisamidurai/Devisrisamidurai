@@ -10,9 +10,8 @@ Excited about CloudNative☁️ and Communities❤️!..
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devisrisamidurai&label=Profile%20views&color=0e75b6&style=flat" alt="devisrisamidurai" /> </p>
 
 <h3 align="center">Let's Connect:-)</h3>
-<p align="centerr">
+<p align="center">
 <a href="https://dev.to/devi_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devi_dev" height="30" width="40" /></a>
-<a href="https://twitter.com/devisritwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devisritwts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devi-sri-0987b6256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devi-sri-0987b6256" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/devisri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devisri" height="30" width="40" /></a>
 <a href="https://hashnode.com/@deviblogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@deviblogs" height="30" width="40" /></a>
