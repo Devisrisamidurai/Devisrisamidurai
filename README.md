@@ -1,6 +1,6 @@
 <h3 align="left"> 
 Hi there!
-I'm Devisri, a sophomore computer science student👩‍💻 with a strong passion for front-end development, DevOps, and Open Source. I'm a firm believer in the collaborative spirit of open source and I'm eager to connect with like-minded individuals in the community and explore new technical frontiers. I'm always looking for opportunities to collaborate, learn from experienced developers and organizations, and refine my skills in the ever-evolving tech industry.
+I'm Devisri, a sophomore computer science student👩‍💻 with a strong passion for front-end development, DevOps, and Open Source. I firmly believe in the collaborative spirit of open source and am eager to connect with like-minded individuals in the community and explore new technical frontiers. I always seek collaboration opportunities, learn from experienced developers and organizations, and refine my skills in the ever-evolving tech industry.
   
 Excited about CloudNative☁️ and Communities❤️!..
 </h3>
@@ -25,14 +25,12 @@ Excited about CloudNative☁️ and Communities❤️!..
  ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
+  
 </div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devisrisamidurai&show_icons=true&locale=en" alt="devisrisamidurai" /></p>
 
