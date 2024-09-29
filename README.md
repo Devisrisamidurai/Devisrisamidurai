@@ -1,9 +1,4 @@
-<h3 align="left"> 
-Hi there!
-I'm Devisri, a sophomore computer science student👩‍💻 with a strong passion for front-end development, DevOps, and Open Source. I firmly believe in the collaborative spirit of open source and am eager to connect with like-minded individuals in the community and explore new technical frontiers. I always seek collaboration opportunities, learn from experienced developers and organizations, and refine my skills in the ever-evolving tech industry.
-  
-Excited about CloudNative☁️ and Communities❤️!..
-</h3>
+
 
 
 
