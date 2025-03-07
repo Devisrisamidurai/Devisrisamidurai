@@ -6,10 +6,9 @@
 
 <h3 align="left">Let's Connect:-)</h3>
 <p align="left">
+ <a href="https://hashnode.com/@deviblogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@deviblogs" height="30" width="40" /></a>
 <a href="https://dev.to/devi_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devi_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devi-sri-0987b6256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devi-sri-0987b6256" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/devisri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devisri" height="30" width="40" /></a>
-<a href="https://hashnode.com/@deviblogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@deviblogs" height="30" width="40" /></a>
 
 </p>
 
